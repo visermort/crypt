@@ -1,0 +1,13 @@
+{
+    "name": "visermort/srypt",
+    "description": "user storage, password check",
+    "authors": [
+        {
+            "name": "visermort",
+            "email": "oxygenn@list.ru"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
